@@ -6,5 +6,12 @@ public class Main {
         if (args.length > 0) {
             System.out.println(args[0]);
         }
+        System.out.println("Second change");
+
+        System.out.println("third change ");
+
+        System.out.println("fourth change");
+
+
     }
 }
